@@ -1,6 +1,7 @@
 * {
   font-family: arial;
 }
+
 button {
   display: block;
   margin: 20px auto 50px;
@@ -8,4 +9,10 @@ button {
   padding: 20px 50px;
   background-color: #fff;
   font-size: 22px;
+}
+
+div {
+  margin: 10px;
+  text-align: center;
+  font-size: 26px;
 }
